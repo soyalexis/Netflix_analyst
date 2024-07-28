@@ -1,0 +1,337 @@
+year_add,genre,genre_count
+2008,Thrillers,1
+2008,"Independent Movies",1
+2008,Dramas,1
+2008,"Stand-Up Comedy & Talk Shows",1
+2009,"Horror Movies",1
+2009,"International Movies",1
+2009,Dramas,1
+2010,"Horror Movies",1
+2010,"Cult Movies",1
+2011,Dramas,13
+2011,"Sports Movies",2
+2011,Thrillers,1
+2011,"Faith & Spirituality",1
+2011,"Children & Family Movies",1
+2011,"International Movies",1
+2012,Comedies,2
+2012,Documentaries,1
+2012,"Children & Family Movies",1
+2013,"Stand-Up Comedy",4
+2013,"TV Dramas",4
+2013,"Children & Family Movies",2
+2013,"Crime TV Shows",2
+2013,"Music & Musicals",1
+2013,Comedies,1
+2013,"Sports Movies",1
+2013,Documentaries,1
+2013,"TV Sci-Fi & Fantasy",1
+2013,"TV Mysteries",1
+2013,"TV Thrillers",1
+2013,"Teen TV Shows",1
+2013,"International TV Shows",1
+2013,"Stand-Up Comedy & Talk Shows",1
+2013,Docuseries,1
+2014,Documentaries,8
+2014,"Stand-Up Comedy",4
+2014,"Children & Family Movies",4
+2014,"TV Dramas",3
+2014,"TV Comedies",3
+2014,Movies,2
+2014,"Kids' TV",2
+2014,"International Movies",2
+2014,Comedies,2
+2014,"Sci-Fi & Fantasy",2
+2014,"Crime TV Shows",1
+2014,"TV Thrillers",1
+2014,"Sports Movies",1
+2014,"Action & Adventure",1
+2014,"Classic & Cult TV",1
+2015,"Stand-Up Comedy",12
+2015,Comedies,12
+2015,Dramas,12
+2015,Documentaries,12
+2015,"Children & Family Movies",11
+2015,"International Movies",10
+2015,"TV Comedies",8
+2015,"Kids' TV",8
+2015,"TV Dramas",8
+2015,"Independent Movies",7
+2015,"Music & Musicals",6
+2015,"British TV Shows",6
+2015,Docuseries,5
+2015,"International TV Shows",3
+2015,"Science & Nature TV",3
+2015,"Action & Adventure",2
+2015,"TV Mysteries",2
+2015,"TV Horror",2
+2015,"Sci-Fi & Fantasy",2
+2015,Thrillers,2
+2015,"Horror Movies",2
+2015,"TV Sci-Fi & Fantasy",2
+2015,"TV Action & Adventure",2
+2015,"Sports Movies",2
+2015,Movies,1
+2015,"LGBTQ Movies",1
+2015,"TV Thrillers",1
+2015,"Romantic Movies",1
+2015,"Crime TV Shows",1
+2015,"Classic & Cult TV",1
+2015,"Romantic TV Shows",1
+2016,"International TV Shows",86
+2016,"International Movies",82
+2016,Documentaries,68
+2016,Dramas,65
+2016,Comedies,48
+2016,"TV Dramas",43
+2016,"Romantic TV Shows",42
+2016,"TV Comedies",40
+2016,"Kids' TV",34
+2016,"Stand-Up Comedy",33
+2016,"Independent Movies",31
+2016,"Crime TV Shows",26
+2016,Docuseries,26
+2016,"Children & Family Movies",20
+2016,"British TV Shows",19
+2016,"Action & Adventure",18
+2016,"Sports Movies",16
+2016,"Anime Series",14
+2016,Thrillers,14
+2016,"Music & Musicals",13
+2016,"Science & Nature TV",10
+2016,"Korean TV Shows",9
+2016,Movies,9
+2016,"TV Action & Adventure",8
+2016,"Horror Movies",8
+2016,"Sci-Fi & Fantasy",7
+2016,"Romantic Movies",7
+2016,"Reality TV",5
+2016,"TV Horror",5
+2016,"Spanish-Language TV Shows",5
+2016,"TV Thrillers",5
+2016,"TV Mysteries",4
+2016,"Anime Features",4
+2016,"Teen TV Shows",3
+2016,"TV Sci-Fi & Fantasy",3
+2016,"LGBTQ Movies",2
+2016,"Classic Movies",2
+2016,"Classic & Cult TV",1
+2016,"Cult Movies",1
+2016,"Stand-Up Comedy & Talk Shows",1
+2016,"Faith & Spirituality",1
+2017,"International Movies",384
+2017,Dramas,289
+2017,Documentaries,198
+2017,Comedies,177
+2017,"International TV Shows",171
+2017,"Independent Movies",116
+2017,"TV Dramas",107
+2017,"Action & Adventure",93
+2017,"Children & Family Movies",70
+2017,Thrillers,68
+2017,"Romantic Movies",63
+2017,"Crime TV Shows",59
+2017,"Stand-Up Comedy",59
+2017,"TV Comedies",55
+2017,Docuseries,53
+2017,"Romantic TV Shows",53
+2017,"Music & Musicals",52
+2017,"British TV Shows",48
+2017,"Kids' TV",41
+2017,"Sports Movies",35
+2017,"Horror Movies",35
+2017,"Korean TV Shows",31
+2017,"Sci-Fi & Fantasy",21
+2017,"Science & Nature TV",20
+2017,"Spanish-Language TV Shows",20
+2017,"LGBTQ Movies",16
+2017,"Classic Movies",15
+2017,"TV Action & Adventure",14
+2017,"Reality TV",13
+2017,"Anime Series",11
+2017,"TV Sci-Fi & Fantasy",10
+2017,"TV Mysteries",9
+2017,"Classic & Cult TV",9
+2017,"Anime Features",9
+2017,"Stand-Up Comedy & Talk Shows",8
+2017,"Faith & Spirituality",5
+2017,"TV Thrillers",5
+2017,"Teen TV Shows",4
+2017,"TV Horror",4
+2017,"Cult Movies",4
+2017,Movies,2
+2017,"TV Shows",1
+2018,"International Movies",655
+2018,Dramas,523
+2018,Comedies,295
+2018,"Action & Adventure",172
+2018,"International TV Shows",172
+2018,"Independent Movies",162
+2018,Documentaries,153
+2018,Thrillers,111
+2018,"Romantic Movies",107
+2018,"Music & Musicals",90
+2018,"TV Dramas",89
+2018,"TV Comedies",86
+2018,"Stand-Up Comedy",82
+2018,"Crime TV Shows",78
+2018,"Horror Movies",77
+2018,"Children & Family Movies",77
+2018,"Sci-Fi & Fantasy",56
+2018,Docuseries,51
+2018,"Kids' TV",47
+2018,"British TV Shows",38
+2018,"Reality TV",33
+2018,"Sports Movies",32
+2018,"Romantic TV Shows",30
+2018,"Spanish-Language TV Shows",23
+2018,"Anime Series",20
+2018,"LGBTQ Movies",20
+2018,"TV Action & Adventure",18
+2018,"Faith & Spirituality",18
+2018,"TV Mysteries",16
+2018,"Stand-Up Comedy & Talk Shows",15
+2018,Movies,12
+2018,"Korean TV Shows",12
+2018,"Cult Movies",12
+2018,"TV Sci-Fi & Fantasy",9
+2018,"TV Horror",9
+2018,"Anime Features",7
+2018,"Science & Nature TV",7
+2018,"Teen TV Shows",5
+2018,"TV Thrillers",5
+2018,"Classic Movies",4
+2018,"Classic & Cult TV",4
+2018,"TV Shows",1
+2019,"International Movies",574
+2019,Dramas,547
+2019,Comedies,398
+2019,"International TV Shows",279
+2019,"Independent Movies",199
+2019,"Action & Adventure",197
+2019,Documentaries,176
+2019,"Romantic Movies",149
+2019,"TV Dramas",135
+2019,Thrillers,130
+2019,"Children & Family Movies",128
+2019,"TV Comedies",98
+2019,"Crime TV Shows",96
+2019,"Horror Movies",95
+2019,Docuseries,79
+2019,"Romantic TV Shows",74
+2019,"Sci-Fi & Fantasy",70
+2019,"Kids' TV",69
+2019,"Music & Musicals",65
+2019,"Stand-Up Comedy",61
+2019,"British TV Shows",58
+2019,"Sports Movies",52
+2019,"Reality TV",49
+2019,"Korean TV Shows",47
+2019,"Classic Movies",44
+2019,"Anime Series",40
+2019,"TV Action & Adventure",37
+2019,"Spanish-Language TV Shows",36
+2019,"Cult Movies",22
+2019,"Faith & Spirituality",19
+2019,"LGBTQ Movies",19
+2019,"Science & Nature TV",19
+2019,"Teen TV Shows",18
+2019,"TV Horror",18
+2019,"TV Mysteries",16
+2019,"Anime Features",14
+2019,"TV Sci-Fi & Fantasy",13
+2019,"TV Thrillers",12
+2019,"Stand-Up Comedy & Talk Shows",7
+2019,Movies,3
+2019,"TV Shows",2
+2019,"Classic & Cult TV",1
+2020,"International Movies",546
+2020,Dramas,523
+2020,Comedies,399
+2020,"International TV Shows",262
+2020,"Action & Adventure",166
+2020,"Romantic Movies",165
+2020,"TV Dramas",158
+2020,"Children & Family Movies",153
+2020,"Independent Movies",147
+2020,Thrillers,129
+2020,"TV Comedies",118
+2020,Documentaries,111
+2020,"Crime TV Shows",99
+2020,"Kids' TV",91
+2020,"Horror Movies",75
+2020,Docuseries,71
+2020,"Reality TV",70
+2020,"Music & Musicals",69
+2020,"Romantic TV Shows",61
+2020,"Sci-Fi & Fantasy",46
+2020,"Stand-Up Comedy",43
+2020,"TV Action & Adventure",43
+2020,"British TV Shows",42
+2020,"Anime Series",41
+2020,"Sports Movies",39
+2020,"Spanish-Language TV Shows",30
+2020,"Classic Movies",29
+2020,"LGBTQ Movies",28
+2020,"TV Mysteries",27
+2020,"Korean TV Shows",27
+2020,"TV Sci-Fi & Fantasy",22
+2020,"TV Horror",22
+2020,"Teen TV Shows",19
+2020,"Science & Nature TV",15
+2020,"Anime Features",14
+2020,"TV Thrillers",13
+2020,"Cult Movies",13
+2020,"Faith & Spirituality",11
+2020,"Stand-Up Comedy & Talk Shows",8
+2020,"Classic & Cult TV",6
+2020,Movies,4
+2020,"TV Shows",2
+2021,Dramas,343
+2021,"International Movies",288
+2021,Comedies,246
+2021,"Action & Adventure",168
+2021,"International TV Shows",153
+2021,"TV Dramas",115
+2021,"Romantic Movies",96
+2021,Thrillers,93
+2021,"TV Comedies",86
+2021,"Independent Movies",82
+2021,"Kids' TV",77
+2021,"Children & Family Movies",68
+2021,Documentaries,66
+2021,"Crime TV Shows",58
+2021,"Horror Movies",46
+2021,Docuseries,43
+2021,"Romantic TV Shows",38
+2021,"Sci-Fi & Fantasy",38
+2021,"Reality TV",35
+2021,"Music & Musicals",32
+2021,"Spanish-Language TV Shows",30
+2021,"TV Action & Adventure",30
+2021,"Anime Series",27
+2021,"British TV Shows",25
+2021,"Classic Movies",21
+2021,"Sports Movies",21
+2021,"TV Sci-Fi & Fantasy",18
+2021,"TV Mysteries",17
+2021,"Cult Movies",17
+2021,"Teen TV Shows",16
+2021,"Anime Features",15
+2021,"Stand-Up Comedy",13
+2021,"TV Horror",12
+2021,"LGBTQ Movies",11
+2021,"Korean TV Shows",10
+2021,"TV Thrillers",10
+2021,"Faith & Spirituality",8
+2021,"Science & Nature TV",8
+2021,"Stand-Up Comedy & Talk Shows",6
+2021,"TV Shows",3
+2021,"Classic & Cult TV",2
+2021,Movies,1
+2024,Action,1
+2024,Horror,1
+2024,Sci-fi,1
+2024,Thriller,1
+2024,Romance,1
+2024,Drama,1
