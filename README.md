@@ -44,7 +44,8 @@
 ### Parte 3: Análisis Avanzado con Python
 
 **Archivo**: `MEli_Challenge.ipynb`
-**Enlace de colab**: [MELi_challenge.ipynb](https://colab.research.google.com/drive/1Y4o4xPkIY7a9OBRHRpIFq8_PH_Sl3p-9?usp=drive_link)
+**Enlace de colab**: [MELi_challenge.ipynb](https://colab.research.google.com/drive/1Y4o4xPkIY7a9OBRHRpIFq8_PH_Sl3p-9?usp=sharing)
+
 **Nota**: Puedes elegir entre Python o R para esta parte del desafío. No es necesario usar ambos.
 
 1. **Análisis de Duración**
